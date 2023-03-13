@@ -57,6 +57,10 @@ hr {
     cursor: pointer;
 }
 
+.memes:hover {
+    color: #1e1878;
+}
+
 /* настройка картинки и её анимация */
 img {
     width: 9em;
